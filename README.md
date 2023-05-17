@@ -9,6 +9,13 @@
 <p>Link do acesso ao sistema da empresa <a href="https://pages.hashtagtreinamentos.com/aula1-intensivao-sistema">https://pages.hashtagtreinamentos.com/aula1-intensivao-sistema</a> (link de uma página de login fake para simular uma rotina e obter os dados para análise)</p>
 
 <h1>Aula2 16/05/23</h1>
+<h2>Análise de Dados com Python</h2>
+<h2>Desafio:</h2>
+<p>Você trabalha em uma empresas do varejo e tem milhares de clientes diferentes</p>
+<p>Com o objetivo de aumentar o faturamento e o lucro da sua empresa, a diretoria quer conseguir indetificar quem é o cliente ideal para seus produtos, baseado no histórico de compras dos clientes.</p>
+<p>Para isso, ele fez um trabalho de classificar os clientes com uma nota de 1 a 100. só que agora, sobrou para você conseguir, a partir dessa nota, descobrir qual o perfil de cliente ideal da empresa.</p>
+<p>Qual a profissão? Qual a idade? Qual a faixa de renda? E todas as informações que vocÊ puder analisar para dizer qual o cliente ideal da empresa</p>
+<p>Base de Dados: <a href="https://drive.google.com/file/d/1vASddC1jOqKx-l7n4aw1y7W4HcbJu_O4/view?usp=share_link">https://drive.google.com/file/d/1vASddC1jOqKx-l7n4aw1y7W4HcbJu_O4/view?usp=share_link</a></p>
 
 <h1>Aula3 17/05/23</h1>
 
