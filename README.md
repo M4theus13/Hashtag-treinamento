@@ -17,9 +17,8 @@ Cada aula aborda um tema diferente do python, e cria programas simulando problem
 
 <p>Para controle de custos, todos os dias, seu chefe pede um relatório com todas as compras de mercadorias da empresa. O seu trabalho, como analista, é enviar um e-mail para ele, assim que começar a trabalhar, com o total gasto, a quantidade de produtos e o preço médio dos produtos.</p>
 
-<p>Link do acesso ao sistema da empresa <a href="https://pages.hashtagtreinamentos.com/aula1-intensivao-sistema">https://pages.hashtagtreinamentos.com/aula1-intensivao-sistema</a> (link de uma página de login fake para simular uma rotina e obter os dados para análise) </p>
 <p>
-Resumo do Programa: </br>
+<h4>Resumo do Programa:</h4>
 O programa usa a biblioteca pyautogui do python e simula uma rotina de trabalho, controla o mouse e teclado do computador, abrindo o navegador entrando
 em um site de login(fake) e realizando o download da planilha, faz uma análise e tratamento dos dados, abre o email e digita as informações da tabela para enviar para uma pessoa 
 </p>
@@ -31,10 +30,11 @@ em um site de login(fake) e realizando o download da planilha, faz uma análise 
 <p>Você trabalha em uma empresas do varejo e tem milhares de clientes diferentes</p>
 <p>Com o objetivo de aumentar o faturamento e o lucro da sua empresa, a diretoria quer conseguir indetificar quem é o cliente ideal para seus produtos, baseado no histórico de compras dos clientes.</p>
 <p>Para isso, ele fez um trabalho de classificar os clientes com uma nota de 1 a 100. só que agora, sobrou para você conseguir, a partir dessa nota, descobrir qual o perfil de cliente ideal da empresa.</p>
-<p>Qual a profissão? Qual a idade? Qual a faixa de renda? E todas as informações que vocÊ puder analisar para dizer qual o cliente ideal da empresa</p>
-<p>Base de Dados: <a href="https://drive.google.com/file/d/1vASddC1jOqKx-l7n4aw1y7W4HcbJu_O4/view?usp=share_link">https://drive.google.com/file/d/1vASddC1jOqKx-l7n4aw1y7W4HcbJu_O4/view?usp=share_link</a>
+<p>Qual a profissão? Qual a idade? Qual a faixa de renda? E todas as informações que você puder analisar para dizer qual o cliente ideal da empresa</p>
 
-Resumo do Programa: </br>
+<h4>Resumo do Programa:</h4>
+
+<p>
 O programa análisa uma planilha com dados de clientes, trata esses dados, e cria gráficos com as informações dessa planilha
 </p>
 
@@ -70,11 +70,12 @@ O programa análisa uma planilha com dados de clientes, trata esses dados, e cri
 Trabalhamos em uma importadora e compramos e vendemos commodities: <br/>
   • Soja, Milho, Trigo, Petróleo, etc.
 Precisamos pegar na internet, de forma automática, a cotação de todas as commodities e ver se ela está abaixo do nosso preço ideal de compra.
-Se tiver, precisamos marcar como uma ação de compra para a equipe de operações. <br/>
+Se tiver, precisamos marcar como uma ação de compra para a equipe de operações.
+</p>
 
-Base de Dados:
+<h4>Resumo do Programa:</h4>
 
-Resumo do Programa: </br>
+<p>
 O programa utiliza a biblioteca selenium do python, abre o navegador e entra em um site com os valores atualizados do preço de cada produto da tabela,
 coleta essa informação de cada produto e insere esse valor na planilha, e verifica se o produto está abaixo do valor de compra, colocando um resultado de VERDADEIRO ou FALSO
 </p>
