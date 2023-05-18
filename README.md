@@ -1,5 +1,16 @@
 <h1 align='center'>Hashtag-treinamento</h1>
 
+<p>Evento de intensivão de python realizado no dia 15/05 a 18/05 <br/>
+Cada aula aborda um tema diferente do python, e cria programas simulando problemas no dia a dia.
+</p>
+
+<p align="center">
+ <a href="https://github.com/M4theus13/Hashtag-treinamento/blob/main/README.md#aula1-150523">Automação de Processos</a> •
+ <a href="https://github.com/M4theus13/Hashtag-treinamento/blob/main/README.md#aula2-160523">Análise de Dados</a> • 
+ <a href="https://github.com/M4theus13/Hashtag-treinamento/blob/main/README.md#aula3-170523">Automação Web(Web Scrapping)</a> • 
+ <a href="https://github.com/M4theus13/Hashtag-treinamento/blob/main/README.md#aula4-180523">Machine Learning +Data Science</a> • 
+</p>
+
 <h1 align='center'>Aula1 15/05/23</h1>
 <h2>Automação de Sistemas e Processos com Python</h2>
 <h2>Problema Exemplo:</h2>
