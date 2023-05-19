@@ -93,4 +93,10 @@ coleta essa informação de cada produto e insere esse valor na planilha, e veri
 </div>
 
 <h1 align='center'>Aula4 18/05/23</h1>
+<h2>Projeto Ciência de Dados - Previsão de Preços</h2>
+<h2>Problema Exemplo:</h2>
+
+<p>Trabalhamos em uma empresa de venda de barcos, o desafio é conseguir prever o preço de barcos que vamos vender baseado nas caracteristicas do barco, como: <br/>
+ano, tamanho, tipo de barco, se é novo ou usado, qual material usado, etc.
+</p>
 
