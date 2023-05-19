@@ -82,12 +82,12 @@ Logo após verifica se o produto está abaixo do valor de compra, colocando um r
 <div align='center'>
   <h3>Banco de dados</h3>
   <a href='https://github.com/M4theus13'>
-    <img width='49%' src='https://github.com/M4theus13/Assets_Projects/blob/main/Hashtag-treinamento/Aula3/tabela.png'>
+    <img width='60%' src='https://github.com/M4theus13/Assets_Projects/blob/main/Hashtag-treinamento/Aula3/tabela.png'>
   </a>
 
   <h3>Resultado</h3>
   <a href='https://github.com/M4theus13'>
-    <img width='49%' src='https://github.com/M4theus13/Assets_Projects/blob/main/Hashtag-treinamento/Aula3/tabela-atualizada.png'>
+    <img width='60%' src='https://github.com/M4theus13/Assets_Projects/blob/main/Hashtag-treinamento/Aula3/tabela-atualizada.png'>
   </a>
 </div>
 
@@ -115,11 +115,11 @@ A primeira IA utiliza o método de Regressão Linear, a segunda IA utiliza o mé
 <div align='center'>
   <h3>Banco de dados</h3>
   <a href='https://github.com/M4theus13'>
-    <img width='49%' src='https://github.com/M4theus13/Assets_Projects/blob/main/Hashtag-treinamento/Aula4/banco-dados.png'>
+    <img width='60%' src='https://github.com/M4theus13/Assets_Projects/blob/main/Hashtag-treinamento/Aula4/banco-dados.png'>
   </a>
 
   <h3>Resultado</h3>
   <a href='https://github.com/M4theus13'>
-    <img width='49%' src='https://github.com/M4theus13/Assets_Projects/blob/main/Hashtag-treinamento/Aula4/tabela.png'>
+    <img width='60%' src='https://github.com/M4theus13/Assets_Projects/blob/main/Hashtag-treinamento/Aula4/tabela.png'>
   </a>
 </div>
