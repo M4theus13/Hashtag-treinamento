@@ -38,7 +38,7 @@ em um site de login(fake) e realizando o download da planilha, faz uma análise 
 O programa análisa uma planilha com dados de clientes, trata esses dados, e cria gráficos com as informações dessa planilha
 </p>
 
-<h3>Resultado</h3>
+<h3 align='center'>Resultado</h3>
 
 <div align='center'>
   <a href='https://github.com/M4theus13'>
@@ -100,3 +100,15 @@ coleta essa informação de cada produto e insere esse valor na planilha, e veri
 ano, tamanho, tipo de barco, se é novo ou usado, qual material usado, etc.
 </p>
 
+<h4>Resumo do Programa:</h4>
+
+<p>O programa utiliza a biblioteca sklearn para criar uma IA para análisar a tabela de dados, e com essa analise a IA diz um valor para cada barco de acordo como o 
+barco é feito, seus materiais e seu tamanho
+</p>
+
+<h3 align='center'>Resultado</h3>
+<div align='center'>
+  <a href='https://github.com/M4theus13'>
+    <img width='49%' src='https://github.com/M4theus13/Assets_Projects/blob/main/Hashtag-treinamento/Aula4/tabela.png'>
+  </a>
+</div>

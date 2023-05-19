@@ -1,5 +1,4 @@
 import pandas as pd
-import plotly.express as px
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestRegressor
@@ -9,12 +8,19 @@ from sklearn.metrics import r2_score
 # Passo 2: Entendimento da Área/Empresa
 # Passo 3: Extração/Obtenção de Dados
 tabela = pd.read_csv('Aula4/barcos_ref.csv')
+print('-='*40)
+print(f'{"Tabela de Barcos":^80}')
+print('-='*40)
+
 print(tabela)
 
 # Passo 4: Ajuste de Dados (Tratamento/Limpeza)
-print(tabela.info())
 
 # Passo 5: Análise Exploratória
+print('-='*40)
+print(f'{"Correlação entre Preço e Características do Barco":^80}')
+print('-='*40)
+
 print(tabela.corr()['Preco']) # mostra a correlação da tabela
 
 # Passo 6: Modelagem + Algoritimos(IA)
@@ -38,11 +44,22 @@ modeloArvoreDecisao.fit(xTreino, yTreino) # treino IA árvore decisão
 prevRL = modeloRegressaoLinear.predict(xTeste)
 prevAD = modeloArvoreDecisao.predict(xTeste)
 
-print(r2_score(yTeste, prevRL)) # score regressão linear
-print(r2_score(yTeste, prevAD)) # score árvore decisão
+print('-='*40)
+
+print(f'Porcentagem de acerto IA Regressão Linear: {r2_score(yTeste, prevRL):.2f}%') # score regressão linear
+print(f'Porcentagem de acerto IA Árvore de Decisão: {r2_score(yTeste, prevAD):.2f}%') # score árvore decisão
 
 # Passo 7: Interpretação de Resultados
+print('-='*40)
+print(f'{"Tabela Novos Barcos":^80}')
+print('-='*40)
+
 tabelaNova = pd.read_csv('Aula4/novos_barcos.csv')
 print(tabelaNova)
 previsao = modeloArvoreDecisao.predict(tabelaNova)
-print(previsao)
+
+print('-='*40)
+
+for c, i in enumerate(previsao):
+    print(f'Estimativa de preço barco {c} = R$ {i:.2f}')
+print('-='*40)
