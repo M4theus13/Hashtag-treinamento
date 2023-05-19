@@ -102,12 +102,24 @@ ano, tamanho, tipo de barco, se é novo ou usado, qual material usado, etc.
 
 <h4>Resumo do Programa:</h4>
 
-<p>O programa utiliza a biblioteca sklearn para criar uma IA para análisar a tabela de dados, e com essa analise a IA diz um valor para cada barco de acordo como o 
-barco é feito, seus materiais e seu tamanho
+<p>O programa faz a leitura de uma tabela em csv, utilizando a biblioteca pandas do python, mostra uma correlação do preço do barco com suas características, e com a leitura feita, utiliza a biblioteca sklearn do python para criar duas IAs que são treinadas com esse banco de dados.
 </p>
 
-<h3 align='center'>Resultado</h3>
+<p>
+Foram implementadas duas IAs para ter uma comparação em porcentagem entre os dois métodos.
+</p>
+
+<p>
+A primeira IA utiliza o método de Regressão Linear, a segunda IA utiliza o método de Árvore de Decisão, após o treinamento é exibido uma porcentagem, de acerto de cada IA, foi utilizada a IA com melhor porcentagem para prever o valor dos barcos, a IA de Árvore de Decisão.
+</p>
+
 <div align='center'>
+  <h3>Banco de dados</h3>
+  <a href='https://github.com/M4theus13'>
+    <img width='49%' src='https://github.com/M4theus13/Assets_Projects/blob/main/Hashtag-treinamento/Aula4/banco-dados.png'>
+  </a>
+
+  <h3>Resultado</h3>
   <a href='https://github.com/M4theus13'>
     <img width='49%' src='https://github.com/M4theus13/Assets_Projects/blob/main/Hashtag-treinamento/Aula4/tabela.png'>
   </a>
